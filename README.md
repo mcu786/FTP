@@ -7,3 +7,5 @@ user:mcu123 -
 password:mcu123 
 
 ftp://mcu123.com/upload_ษฯดซฤฟยผ/
+
+test
